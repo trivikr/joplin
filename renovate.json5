@@ -161,10 +161,8 @@
 		//
 		// Started failing with:
 		//
-		//  "aws-sdk": "2.1340.0"
 		// "@aws-sdk/client-s3": "3.296.0"
 		// "@aws-sdk/s3-request-presigner": "3.296.0"
-		"aws-sdk",
 		"@aws-sdk/client-s3",
 		"@aws-sdk/s3-request-presigner",
 
@@ -234,7 +232,6 @@
 		// 		// AWS packages are updated too frequently and we can assume minor
 		// 		// updates are stable.
 		// 		"@aws-sdk/*",
-		// 		"aws-sdk",
 		// 	],
 		// },
 	]
